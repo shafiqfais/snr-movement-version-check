@@ -3,6 +3,6 @@
   "latest_version": "8.3.1",
   "release_status": "development",
   "download_url": null,
-  "sha256": null,
+  "sha256": "7c946b8a281de80b87f934376c90b2a9ecc5637a8581a22948f7ffefba1990a6",
   "release_notes": "Initial online version check configuration."
 }
