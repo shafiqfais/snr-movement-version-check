@@ -2,7 +2,7 @@
   "app_name": "SNR MOVEMENT",
   "latest_version": "8.3.1",
   "release_status": "development",
-  "download_url": null,
+  "download_url": "https://github.com/shafiqfais/snr-movement-version-check/releases/download/v8.3.1/SNR_MOVEMENT_V8_3_1_TEST_PACKAGE.zip.zip",
   "sha256": "7c946b8a281de80b87f934376c90b2a9ecc5637a8581a22948f7ffefba1990a6",
   "release_notes": "Initial online version check configuration."
 }
